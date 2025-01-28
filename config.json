@@ -1,0 +1,24 @@
+{
+    "client": {
+        "token": "OTM0MTcxOTI2MjQ1NTM5ODQw.GsTbPZ.0_D0GSApHpBn-nzyTZeKDtcm3cSSlaMFUZLa3c", 
+        "embed": "#00ff00",
+        "foto": "https://cdn.discordapp.com/attachments/1192498965103517716/1192499804123713706/IMG_8073.png?ex=679a527c&is=679900fc&hm=e2b80f08740876b78973b1da53d98fee3d5f239d7d97db6dab66ae8b5faa5999&",
+        "banner": "https://cdn.discordapp.com/attachments/1192498965103517716/1192499804471836773/IMG_8072.png?ex=679a527c&is=679900fc&hm=24b037662edc982b35cb1d251a952757afdf49faf15c8a650931d2a93ac6bc23&",
+        "title": "Criado Por Ryanzada#0460",
+        "title2": "TropaDo7 - https://discord.gg/JmccRjBx",
+        "canaldevoz": "",
+        "channel_bugs": "1191473837204836383",
+        "owner_id": "644311542254403604/728667897496600576"
+    },
+    "sales": {
+        "categoria_carrinho": "1202316882099830906", 
+        "logs_compras": "1333895501640241233",
+        "cargo_cliente": "1202317276704145418",
+        "cargo_aprovar": "",
+        "banco": {
+            "qrcode": "", 
+            "ChaveAleatória": "",
+            "tipochave": "Aleatória"
+        }
+    }
+}
